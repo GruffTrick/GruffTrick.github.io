@@ -1,2 +1,4 @@
-# grufftrick.github.io
-grufftrick.github.io
+# Gruffudd Trick | Software Engineer
+
+## Education
+### Aberystwyth University:
