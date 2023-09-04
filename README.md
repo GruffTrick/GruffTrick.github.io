@@ -6,9 +6,6 @@ Fluent Welsh-speaking, Computer Science graduate.  I place a significant focus o
 ## Education
 ### Aberystwyth University:
 - BSc Computer Science (G400)
-### Ysgol Gyfun Gwyr Comprehensive School
-- Electronics
-- Design and Technology: Product Design
 
 ## Coding Languages
 - C/C++ [Example](https://github.com/GruffTrick/Sheep-Behaviour-Analyser "Example C Project")
