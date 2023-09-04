@@ -8,8 +8,8 @@ Fluent Welsh-speaking, Computer Science graduate.  I place a significant focus o
 - BSc Computer Science (G400)
 
 ## Coding Languages
-- C/C++ [Example](https://github.com/GruffTrick/Sheep-Behaviour-Analyser "Example C Project")
-- Java [Example](https://github.com/GruffTrick/Sudoku-Solver "Example Java Project")
-- Python
-- Rust [Example](https://github.com/GruffTrick/csv_viewer "Example Rust Project)
-- Assembly
+- C/C++ [Example](https://github.com/GruffTrick/Sheep-Behaviour-Analyser "Example C Project").
+- Java [Example](https://github.com/GruffTrick/Sudoku-Solver "Example Java Project").
+- Python.
+- Rust [Example](https://github.com/GruffTrick/csv_viewer "Example Rust Project").
+- Assembly.
