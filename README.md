@@ -11,8 +11,8 @@ Fluent Welsh-speaking, Computer Science graduate.  I place a significant focus o
 - Design and Technology: Product Design
 
 ## Coding Languages
-- C/C++
-- Java
+- C/C++ [Example](https://github.com/GruffTrick/Sheep-Behaviour-Analyser "Example C Project")
+- Java [Example](https://github.com/GruffTrick/Sudoku-Solver "Example Java Project")
 - Python
-- Rust
+- Rust [Example](https://github.com/GruffTrick/csv_viewer "Example Rust Project)
 - Assembly
