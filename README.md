@@ -5,7 +5,7 @@ I am a fluent Welsh-speaking, Computer Science graduate from Aberystwyth Univers
 
 ## Education
 ### Aberystwyth University:
-- *BSc Computer Science (Scheme Code: G400)*
+- *Computer Science BSc (Scheme Code: G400)*
 
 ## Coding Languages and Relevant Projects
 - **C/C++** [Example](https://github.com/GruffTrick/Sheep-Behaviour-Analyser "Example C Project")
