@@ -1,4 +1,4 @@
-# Bout Me
+# About Me
 
 ## Introduction
 I am a fluent Welsh-speaking, Computer Science graduate from Aberystwyth University.  I put a significant focus on self-improvement to develop problem-solving and communication skills.  I have experience working under high stress, and working effectively in a team, and very passionate about software development and technology.
