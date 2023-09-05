@@ -8,8 +8,8 @@ I am a fluent Welsh-speaking, Computer Science graduate from Aberystwyth Univers
 - *BSc Computer Science (Scheme Code: G400)*
 
 ## Coding Languages and Relevant Projects
-- **C/C++** [Example](https://github.com/GruffTrick/Sheep-Behaviour-Analyser "Example C Project").
-- **Java** [Example](https://github.com/GruffTrick/Sudoku-Solver "Example Java Project").
-- **Python**.
-- **Rust** [Example](https://github.com/GruffTrick/csv_viewer "Example Rust Project").
-- **Assembly**.
+- **C/C++** X^[Example](https://github.com/GruffTrick/Sheep-Behaviour-Analyser "Example C Project")^
+- **Java** X^[Example](https://github.com/GruffTrick/Sudoku-Solver "Example Java Project")^
+- **Python**
+- **Rust** X^[Example](https://github.com/GruffTrick/csv_viewer "Example Rust Project")^
+- **Assembly**
