@@ -1,9 +1,9 @@
 # About Me
-I am a native Welsh speaker and Computer Science graduate from Aberystwyth University.  
-I am an all-around tech enthusiast, deriving my passion from the wide scope of the digital world.
+I am a native Welsh speaker and Computer Science graduate from Aberystwyth University.   
+I am an all-around tech enthusiast, deriving my passion from the wide scope of the digital world.  
 I love self-improvement and solving problems.
 
-**Rust enthusiast:** I contribute to my personal project, a CSV Viewer, written in Rust, for Linux (currently). 
+**Rust enthusiast:** I contribute to my personal project, a CSV Viewer, written in Rust, for Linux (currently).  
 **Software Engineer:** I have developed a number of Object-Oriented applications, and web apps, in addition to CAD and 3D animation.
 
 
