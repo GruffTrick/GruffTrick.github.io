@@ -15,7 +15,7 @@ I love self-improvement and solving problems.
 - **C/C++** [Example](https://github.com/GruffTrick/Sheep-Behaviour-Analyser "Example C Project")
 - **Java** [Example](https://github.com/GruffTrick/Sudoku-Solver "Example Java Project")
 - **Python**
-- **Rust** [Example](https://github.com/GruffTrick/csv_viewer "Example Rust Project")
+- **Rust** [Example](https://grufftrick.github.io/csv_viewer/ "Example Rust Project")
 - **Assembly**
 - **Full Stack**
 - **3D Animation** [Example](https://www.youtube.com/watch?v=VQR3j0ihNsE "Example 3D Animation")
